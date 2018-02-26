@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="myCasClient:war exploded">
-    <output-path>D:/software/apache-tomcat-8.5.15/webapps</output-path>
+    <output-path>$PROJECT_DIR$/target/myCasClient</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">

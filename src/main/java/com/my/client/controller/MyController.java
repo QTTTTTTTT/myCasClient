@@ -17,6 +17,6 @@ public class MyController {
 
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String printIndex(Model model) {
-        return "hello";
+        return "index";
     }
 }
